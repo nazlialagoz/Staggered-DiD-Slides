@@ -3,7 +3,7 @@ Slides for "Staggered Difference-in-Differences in Practice: Causal Insights fro
 
 ## Slides
 
-PDF available above 👆🏻 or directly [here]().
+PDF is available in this repository or directly [here](PyData_presentation_staggered_DiD.pdf).
 
 ## Video
 
