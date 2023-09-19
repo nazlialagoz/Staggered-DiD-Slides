@@ -16,6 +16,6 @@ PDF is available in this repository or directly [here](PyData_presentation_stagg
 - Overview of staggered DiD methods that address the limitations of the traditional DiD estimator
 
 ## Additional Resources
-+ [Introduction to DiD with Multiple Time Periods by Brantly Callaway and Pedro H.C. Sant’Anna](https://bcallaway11.github.io/did/articles/multi-period-did.html) - Blog
-+ [What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature by Jonathan Roth, Pedro H. C. Sant'Anna, Alyssa Bilinski, John Poe](https://arxiv.org/abs/2201.01194) - Academic paper
-+ [Uncovering the Limitations of Traditional DiD Method by me](https://medium.com/towards-data-science/uncovering-the-limitations-of-traditional-did-method-2f068f56d19a) - Blog
++ [Introduction to DiD with Multiple Time Periods](https://bcallaway11.github.io/did/articles/multi-period-did.html) by Brantly Callaway and Pedro H.C. Sant’Anna - Blog
++ [What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature](https://arxiv.org/abs/2201.01194) by Jonathan Roth, Pedro H. C. Sant'Anna, Alyssa Bilinski, John Poe - Academic paper
++ [Uncovering the Limitations of Traditional DiD Method](https://medium.com/towards-data-science/uncovering-the-limitations-of-traditional-did-method-2f068f56d19a) by me - Blog
