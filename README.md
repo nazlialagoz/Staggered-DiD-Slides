@@ -1,5 +1,5 @@
 # Staggered-DiD-Slides
-Slides for "Staggered Difference-in-Differences in Practice: Causal Insights from the Music Industry" Presentation for PyData Amsterdam 2023 (14-16 September)- Nazli M. Alagoz
+Slides for "Staggered Difference-in-Differences in Practice: Causal Insights from the Music Industry" Presentation for PyData Amsterdam 2023 (14-16 September)- Nazli M. Alagoz
 
 ## Slides
 
