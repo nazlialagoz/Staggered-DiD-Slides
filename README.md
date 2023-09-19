@@ -10,7 +10,7 @@ PDF is available in this repository or directly [here](PyData_presentation_stagg
 (I'll add the video once it's available.)
 
 ## Overview
-- What is Difference-in-Differences (DiD)?
+- What is Difference-in-Differences (DiD) and how does the DiD estimator work?
 - What is the limitation of the traditional DiD estimator when treatment timing varies?
 - How can we address the limitation of traditional DiD estimator when the treatment is staggered?
 - Overview of staggered DiD methods that address the limitations of the traditional DiD estimator
